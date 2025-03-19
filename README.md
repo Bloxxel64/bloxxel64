@@ -10,10 +10,6 @@ https://github.com/Bloxxel64/SM64LinuxLauncher
 
 Some cool stuff for you:
 
-https://github.com/sm64js/sm64js: A port of sm64 decomp to javascript, running natively in your browser.
-
-https://github.com/djoslin0/sm64ex-coop: Amazing multiplayer fork of sm64ex (sm64 pc port), featuring lua mods, and custom models.
-
 https://github.com/GloriousEggroll/proton-ge-custom: cool modified version of proton.
 
 https://github.com/MBU-Team/OpenMBU: An open-source decompilation of Marble Blast Ultra (Xbox 360) for PC
